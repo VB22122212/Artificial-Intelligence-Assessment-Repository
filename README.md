@@ -12,13 +12,8 @@ AI-Assessment-2026
 ├── Unit-3
 ├── Unit-4
 ├── Unit-5
-├── Mini_Project
-├── Assignments
 ├── PPT
 ├── Reports
-├── Datasets
-├── Source_Code
-└── Certificates
 ```
 
 ## 🎯 Objectives
